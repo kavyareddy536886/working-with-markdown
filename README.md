@@ -79,7 +79,7 @@ version. This change makes the image link to the true image, instead of
 the preview/lightbox (similar to the difficulty with Wikimedia).
 
 ![vscode image](https://github.com/profcase/working-with-markdown/raw/master/vscode.PNG "Example local image")
-
+![wiki image](https://en.wikipedia.org/wiki/File:Alabama_centennial_half_dollar_commemorative.jpg "wiki")
 ## Paragraphs
 
 Lines directly below one another will wrap into a single paragraph. 
